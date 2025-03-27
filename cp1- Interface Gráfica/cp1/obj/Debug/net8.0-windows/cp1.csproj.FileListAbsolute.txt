@@ -1,0 +1,16 @@
+C:\Users\Felipe\source\repos\cp1\cp1\bin\Debug\net8.0-windows\cp1.exe
+C:\Users\Felipe\source\repos\cp1\cp1\bin\Debug\net8.0-windows\cp1.deps.json
+C:\Users\Felipe\source\repos\cp1\cp1\bin\Debug\net8.0-windows\cp1.runtimeconfig.json
+C:\Users\Felipe\source\repos\cp1\cp1\bin\Debug\net8.0-windows\cp1.dll
+C:\Users\Felipe\source\repos\cp1\cp1\bin\Debug\net8.0-windows\cp1.pdb
+C:\Users\Felipe\source\repos\cp1\cp1\obj\Debug\net8.0-windows\cp1.Form1.resources
+C:\Users\Felipe\source\repos\cp1\cp1\obj\Debug\net8.0-windows\cp1.csproj.GenerateResource.cache
+C:\Users\Felipe\source\repos\cp1\cp1\obj\Debug\net8.0-windows\cp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Felipe\source\repos\cp1\cp1\obj\Debug\net8.0-windows\cp1.AssemblyInfoInputs.cache
+C:\Users\Felipe\source\repos\cp1\cp1\obj\Debug\net8.0-windows\cp1.AssemblyInfo.cs
+C:\Users\Felipe\source\repos\cp1\cp1\obj\Debug\net8.0-windows\cp1.csproj.CoreCompileInputs.cache
+C:\Users\Felipe\source\repos\cp1\cp1\obj\Debug\net8.0-windows\cp1.dll
+C:\Users\Felipe\source\repos\cp1\cp1\obj\Debug\net8.0-windows\refint\cp1.dll
+C:\Users\Felipe\source\repos\cp1\cp1\obj\Debug\net8.0-windows\cp1.pdb
+C:\Users\Felipe\source\repos\cp1\cp1\obj\Debug\net8.0-windows\cp1.genruntimeconfig.cache
+C:\Users\Felipe\source\repos\cp1\cp1\obj\Debug\net8.0-windows\ref\cp1.dll
